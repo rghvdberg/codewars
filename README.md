@@ -7,3 +7,4 @@ My solutions for various _"Kata"_ on codewars.com
 - [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 - [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 - [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+- [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071)
