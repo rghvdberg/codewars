@@ -10,3 +10,4 @@ My solutions for various _"Kata"_ on codewars.com
 - [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071)
 - [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 - [Does my number look big in this?](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
