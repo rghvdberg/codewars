@@ -12,4 +12,5 @@ My solutions for various _"Kata"_ on codewars.com
 - [Does my number look big in this?](https://www.codewars.com/kata/514b92a657cdc65150000006)
 - [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
 - [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
--[Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
+- [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
+- [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
