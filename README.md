@@ -16,3 +16,4 @@ My solutions for various _"Kata"_ on codewars.com
 - [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 - [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 - [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+- [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
