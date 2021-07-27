@@ -15,3 +15,4 @@ My solutions for various _"Kata"_ on codewars.com
 - [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 - [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 - [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
+- [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
