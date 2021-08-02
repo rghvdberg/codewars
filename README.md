@@ -1,4 +1,6 @@
-# CodeWars
+## CodeWars
+
+![codewars.com badge](https://www.codewars.com/users/rghvdberg/badges/small "codewars.com badge")
 
 My solutions for various _"Kata"_ on codewars.com
 
