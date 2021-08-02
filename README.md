@@ -27,3 +27,4 @@ My solutions for various _"Kata"_ on codewars.com
 - [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 - [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 - [Shortest Knight Path](https://www.codewars.com/kata/549ee8b47111a81214000941)
+- [Path Finder #1: can you reach the exit?](https://www.codewars.com/kata/5765870e190b1472ec0022a2/)
